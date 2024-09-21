@@ -1,22 +1,22 @@
 {
-  "name": "coffe-next-site",
+  "name": "next-coffee",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "server": "json-server --watch ./data/db.json -p 4000",
     "build": "next build",
     "start": "next start",
+    "server": "json-server --watch ./data/db.json -p 4000",
     "lint": "next lint"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "^6.6.0",
-    "@fortawesome/free-solid-svg-icons": "^6.6.0",
-    "@fortawesome/react-fontawesome": "^0.2.2",
+    "@fortawesome/fontawesome-svg-core": "^6.4.2",
+    "@fortawesome/free-solid-svg-icons": "^6.4.2",
+    "@fortawesome/react-fontawesome": "^0.2.0",
     "json-server": "^1.0.0-beta.2",
-    "next": "14.2.13",
-    "react": "^18",
-    "react-dom": "^18",
-    "swiper": "^11.1.14"
+    "next": "13.5.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "swiper": "^10.3.1"
   }
 }
