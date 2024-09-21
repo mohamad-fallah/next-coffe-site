@@ -1,7 +1,7 @@
-import React from 'react'
+import React from "react";
 
-export default function ContactDetails() {
-  return (
-    <div>ContactDetails</div>
-  )
+function Details() {
+  return <div>Details</div>;
 }
+
+export default Details;

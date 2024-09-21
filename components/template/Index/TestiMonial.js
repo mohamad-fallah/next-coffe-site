@@ -1,7 +1,7 @@
-import React from 'react'
+import React from "react";
 
-export default function TestiMonial() {
-  return (
-    <div>TestiMonial</div>
-  )
+function Testimonial() {
+  return <div>Testimonial</div>;
 }
+
+export default Testimonial;

@@ -1,7 +1,7 @@
-import React from 'react'
+import React from "react";
 
-export default function Story() {
-  return (
-    <div>Story</div>
-  )
+function Story() {
+  return <div>Story</div>;
 }
+
+export default Story;

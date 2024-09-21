@@ -1,7 +1,7 @@
-import Slider from "@/components/templates/Index/Slider";
+import Slider from "@/components/template/Index/Slider";
 import React from "react";
-import About from "@/components/templates/Index/About";
-import Services from "@/components/templates/Index/Services";
+import About from "@/components/template/Index/About";
+import Services from "@/components/template/Index/Services";
 
 function Index() {
   return (

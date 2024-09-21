@@ -1,7 +1,7 @@
-import React from 'react'
+import React from "react";
 
-export default function Offer() {
-  return (
-    <div>Offer</div>
-  )
+function Offer() {
+  return <div>Offer</div>;
 }
+
+export default Offer;
