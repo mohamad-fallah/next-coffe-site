@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "@/styles/Navbar.module.css";
 
-export default function Navbar() {
+function Navbar() {
   return (
     <div class={`container-fluid p-0 ${styles.nav_bar}`}>
       <nav
@@ -64,3 +64,5 @@ export default function Navbar() {
     </div>
   );
 }
+
+export default Navbar;

@@ -1,7 +1,7 @@
-import React from 'react'
+import React from "react";
 
-export default function PageHeader() {
-  return (
-    <div>PageHeader</div>
-  )
+function PageHeader() {
+  return <div>PageHeader</div>;
 }
+
+export default PageHeader;

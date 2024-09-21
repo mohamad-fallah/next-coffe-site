@@ -1,7 +1,7 @@
-import React from 'react'
+import React from "react";
 
-export default function Services() {
-  return (
-    <div>Services</div>
-  )
+function Services() {
+  return <h1>Services Page</h1>;
 }
+
+export default Services;
